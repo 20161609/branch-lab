@@ -1,4 +1,4 @@
 # Branch Lab
 ## Contributing Guidelines
-## Contributing Guidelines
+- follow conventional commits
 - use concise PR descriptions
