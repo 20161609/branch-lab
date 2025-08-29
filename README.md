@@ -1,1 +1,2 @@
 # Branch Lab
+## Contributing Guidelines
